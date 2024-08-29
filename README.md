@@ -33,7 +33,7 @@ These are state to the frog to reach the goal.
 {2}->RIGHT
 
 ### Reward Function
- To reach Goal->+!(REWARD)
+ To reach Goal->+1(REWARD)
 
  otherwise->0
 
