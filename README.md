@@ -38,7 +38,7 @@ These are state to the frog to reach the goal.
  otherwise->0
 
 ### Graphical Representation
-![RL_1 1](https://github.com/user-attachments/assets/1f29e66d-6fbb-40e2-a6a3-231b143bf48d)
+![RL_1 1](https://github.com/user-attachments/assets/5c3e5001-8c7b-4e62-a9ad-3b0793cf35c6)
 
 
 #### DEVELOPED BY : Gumma Dileep Kumar
